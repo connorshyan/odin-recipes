@@ -1,3 +1,5 @@
-# The Odin Project - Foundation Project: Recipes
+# Asian Fried Chicken Recipes
 
-This project is to practice building a basic recipe website using HTML. It will contain a main index page which will have links to a few recipes. The website will look very basic as it only uses HTML and nothing else. This project will be revisited in the near future to be styled using CSS.
+This project was created as a part of The Odin Project's Foundations course to practice building a basic recipe website using HTML only and nothing else. It contains a main index page which has links to recipes for three of my favorite fried chicken recipes (which all happens to be Asian).
+
+Live Preview: https://connorshyan.github.io/odin-recipes/
